@@ -1,14 +1,9 @@
 # GitHub Clone
+<img src="assets/github-clone-image1.png" alt="image">,
 
-<p align="center">
-  <img src="assets/github-clone-image1.png" alt="image">,
-</p>
-<p align="center">
-  <img src="assets/github-clone-mobile.png" alt="image">,
-</p>
+<img src="assets/github-clone-mobile.png" alt="image">,
 
 ## GitHub landing page clone.
 
-### Live Demo
-
+## Live Demo
 ### [Demo](https://my-ipaddresstracker.netlify.app)
